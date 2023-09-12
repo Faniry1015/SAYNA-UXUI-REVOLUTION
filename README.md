@@ -6,7 +6,7 @@ To conduct a UX/UI audit on the features of a website of my choice and to provid
 
 
 <h2>Selected Website</h2>
-<em>Site Régional de Promotion du Tourisme Responsable du Vakinankaratra</em>
+<strong>Site Régional de Promotion du Tourisme Responsable du Vakinankaratra</strong> :
 Un site web dédié au tourisme dans la région Vakinankaratra - Madagascar <br>
 Website link : https://www.antsirabe-tourisme.com/
 
