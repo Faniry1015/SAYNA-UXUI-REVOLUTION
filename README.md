@@ -5,7 +5,8 @@ Project carried out as part of the design module evaluation with SAYNA
 To conduct a UX/UI audit on the features of a website of my choice and to provide recommendations for improvement.
 
 
-<h2>Selected Website</h2> : 
+<h2>Selected Website</h2>
+<em>Site Régional de Promotion du Tourisme Responsable du Vakinankaratra</em>
 Un site web dédié au tourisme dans la région Vakinankaratra - Madagascar <br>
 Website link : https://www.antsirabe-tourisme.com/
 
