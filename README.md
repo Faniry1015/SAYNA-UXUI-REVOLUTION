@@ -20,4 +20,4 @@ Prototype link : https://www.figma.com/proto/rn84ovByz4jZEC6LcgJhz4/SAYNA-UXUI-R
 
 <hr>
 
-Faniriantsoa RANDRIAHARIMINO
+Faniriantsoa RANDRIAHARIMINO MG
