@@ -1,5 +1,5 @@
 # SAYNA-UXUI-REVOLUTION
-Project carried out as part of the design module evaluation with SAYNA
+Project carried out as part of the design module evaluation with SAYNA ACADEMY
 
 <h2>Objective</h2>
 To conduct a UX audit on the features of a website of my choice and to provide recommendations for improvement.
